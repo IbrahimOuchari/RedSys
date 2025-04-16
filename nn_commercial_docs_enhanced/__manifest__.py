@@ -29,7 +29,9 @@ Ce module regroupe plusieurs personnalisations pour les documents Odoo :
     'data': [
         # 'security/ir.model.access.csv',
         'views/account_move_views.xml',
+        'views/sale_order_form_view.xml',
         'reports/account_invoice_report_template.xml',
+        'reports/sale_order_report.xml',
 
     ],
 
